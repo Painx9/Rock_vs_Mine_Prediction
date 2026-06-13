@@ -1,6 +1,6 @@
 # Rock vs Mine Prediction
-
-A machine learning project that predicts whether a sonar return signal represents a Rock (R) or a Mine (M).
+we are building a system in Python that can predict whether an object is either Rock or Mine with SONAR Data. For this use case, we are using Logistic Regression Model for our prediction.
+This project predicts whether a sonar return signal represents a Rock (R) or a Mine (M).
 
 ## Files
 - `Rock vs Mine Prediction.ipynb` - Jupyter/Colab notebook
